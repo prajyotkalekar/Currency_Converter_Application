@@ -7,3 +7,92 @@
     padding: 0; 
     box-sizing: border-box; 
 }
+
+body 
+{ 
+    height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color: purple; 
+} 
+ 
+.container 
+{ 
+    width: 25%; 
+    background-color: white; 
+    padding: 2%; 
+    border-radius: 5px; 
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.01); 
+} 
+ 
+.container header 
+{ 
+    font-size: 22px; 
+    font-weight: 600; 
+    text-align: center; 
+} 
+ 
+.container form 
+{ 
+    margin: 5% 0 5% 0; 
+} 
+ 
+.container form input, 
+.container form button 
+{ 
+    width: 100%; 
+    border: none; 
+    outline: none; 
+    border-radius: 5px; 
+} 
+ 
+.container form p 
+{ 
+    font-size: 18px; 
+    margin-bottom: 2%; 
+    margin-top: 2%; 
+} 
+ 
+.container form input 
+{ 
+    height: 50px; 
+    padding: 0 15px; 
+    border: 1px solid #999; 
+    font-size: 16px; 
+} 
+ 
+.container form input:focus 
+{ 
+    border: 2px solid purple; 
+    padding: 0 14px; 
+} 
+ 
+.container form select 
+{ 
+    width: auto; 
+    height: 45px; 
+    font-size: 16px; 
+    border: 1px solid #999; 
+    border-radius: 5px; 
+    margin: 1% 0 2% 0%; 
+} 
+ 
+.container form button  
+{ 
+    height: 52px; 
+    background: purple; 
+    color: #fff; 
+    font-size: 17px; 
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+    margin-top: 2%; 
+    margin-bottom: 5%; 
+} 
+   
+.container form button:hover  
+{ 
+background: transparent; 
+color: purple; 
+border: 2px solid purple; 
+}
