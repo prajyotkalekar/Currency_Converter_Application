@@ -17,5 +17,6 @@ convert.addEventListener("click",function()
         let total = rate*amt; 
         result.innerHTML = "Result Amount : " + total; 
         console.log(total); 
+        console.log(total);
     }); 
 }); 
