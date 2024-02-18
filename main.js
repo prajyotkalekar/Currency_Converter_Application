@@ -16,7 +16,6 @@ convert.addEventListener("click",function()
         let rate = data.conversion_rates[toCurrency]; 
         let total = rate*amt; 
         result.innerHTML = "Result Amount : " + total; 
-        console.log(total); 
         console.log(total);
     }); 
 }); 
