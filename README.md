@@ -1,7 +1,7 @@
 # Currency-Converter <img src="images/fevicon.png" alt="" height="35" width="55"/>
 <br>
 
-<h2 style="text-decoration:underline">Overview:</h2>
+<h2 style="text-decoration:'underline'">Overview:</h2>
 This project is a straightforward web-based currency converter focused on three major currencies: Indian Rupee (INR), United States Dollar (USD), and Euro (EUR). It employs HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The converter fetches live exchange rates for these specific currencies using an API for accurate and up-to-date conversions.
 
 <h2>Features:</h2>
