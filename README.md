@@ -28,9 +28,10 @@ This project is a straightforward web-based currency converter focused on three 
 - Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
 <br><br>
 
+<h2>Demo:</h2>
+Live Demo - https://prajyotkalekar.github.io/Currency_Converter/
+
 <h2>Screenshots:</h2>
-
-
 ![Currency_Conv_App](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/5af58700-e4a2-413c-89d9-e7de848f8ed9)
 <br>
 
