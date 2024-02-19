@@ -34,4 +34,4 @@ This project is a straightforward web-based currency converter focused on three 
 ![Currency_Conv_App](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/5af58700-e4a2-413c-89d9-e7de848f8ed9)
 <br>
 
-<h5>Feel free to contribute, report issues, or suggest improvements. Happy coding! 🤝💡</h5>
+<h4>Feel free to contribute, report issues, or suggest improvements. Happy coding!🤝💡</h4>
