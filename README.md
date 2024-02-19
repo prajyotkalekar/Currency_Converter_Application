@@ -1,4 +1,4 @@
-# Currency Converter <img src="![convert](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/ad72b523-e049-4658-b8cd-34cdae059aeb)" alt="" height="35" width="35"/>
+# Currency Converter <img src="images/convert.png" alt="" height="35" width="35"/>
 
 
 
