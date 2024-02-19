@@ -6,13 +6,13 @@ This project is a straightforward web-based currency converter focused on three 
 <br><br>
 
 <h2>Features:</h2>
-1. Limited Currency Options: The converter is designed to handle conversions between Indian Rupee (INR), United States Dollar (USD), and Euro (EUR).
+- Limited Currency Options: The converter is designed to handle conversions between Indian Rupee (INR), United States Dollar (USD), and Euro (EUR).
 
-2. User-friendly Interface: The application provides a simple and intuitive user interface for easy currency conversion.
-   
-3. Live Exchange Rates: Real-time exchange rates for the selected currencies are fetched from a reliable API, ensuring accurate conversions based on the latest market data.
+- User-friendly Interface: The application provides a simple and intuitive user interface for easy currency conversion.
 
-4. Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
+- Live Exchange Rates: Real-time exchange rates for the selected currencies are fetched from a reliable API, ensuring accurate conversions based on the latest market data.
+
+- Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
 <br><br>
 
 <h2>Technologies Used:</h2>
