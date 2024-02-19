@@ -1,10 +1,10 @@
 # Currency-Converter <img src="images/fevicon.png" alt="" height="35" width="55"/>
 <br>
 
-<h1>Overview:</h1>
+<h2>Overview:</h2>
 This project is a straightforward web-based currency converter focused on three major currencies: Indian Rupee (INR), United States Dollar (USD), and Euro (EUR). It employs HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The converter fetches live exchange rates for these specific currencies using an API for accurate and up-to-date conversions.
 
-<h3>Features:</h3>
+<h2>Features:</h2>
 1. Limited Currency Options: The converter is designed to handle conversions between Indian Rupee (INR), United States Dollar (USD), and Euro (EUR).
 
 2. User-friendly Interface: The application provides a simple and intuitive user interface for easy currency conversion.
@@ -14,7 +14,7 @@ This project is a straightforward web-based currency converter focused on three 
 4. Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
 <hr>
 
-<h3>Technologies Used:</h3>
+<h2>Technologies Used:</h2>
 HTML: Provides the basic structure and layout of the web page.
 
 CSS: Styles the page to enhance visual appeal and user experience.
@@ -24,7 +24,7 @@ JavaScript: Implements the dynamic functionality of the currency converter, hand
 Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
 <hr>
 
-<h3>Screenshots:</h3>
+<h2>Screenshots:</h2>
 
 
 ![Currency_Conv_App](https://github.com/prajyotkalekar/Currency_Converter/assets/141732867/5af58700-e4a2-413c-89d9-e7de848f8ed9)
