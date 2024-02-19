@@ -1,4 +1,4 @@
-# Currency Converter <img src="images/convert.png" alt="" height="45" width="45" margin-top="50px"/>
+# Currency Converter <img src="images/convert.png" alt="" height="45" width="75"/>
 
 
 
