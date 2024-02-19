@@ -32,6 +32,7 @@ This project is a straightforward web-based currency converter focused on three 
 
 - Explore the functionality of the currency converter with our live demo. Try different currency conversions and see the results in real-time.
 Live Demo - https://prajyotkalekar.github.io/Currency_Converter/
+<br><br>
 
 <h2>Screenshots:</h2>
 
