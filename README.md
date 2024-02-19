@@ -1,4 +1,4 @@
-# Currency Converter <img src="images/fevicon.png" alt="" height="35" width="55"/>
+# Currency Converter &nbsp;<img src="images/fevicon.png" alt="" height="35" width="55"/>
 
 
 
