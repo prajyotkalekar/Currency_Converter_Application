@@ -2,6 +2,7 @@
 <br>
 
 <h2>Overview:</h2>
+
 This project is a straightforward web-based currency converter focused on three major currencies: Indian Rupee (INR), United States Dollar (USD), and Euro (EUR). It employs HTML for the structure, CSS for styling, and JavaScript for dynamic functionality. The converter fetches live exchange rates for these specific currencies using an API for accurate and up-to-date conversions.
 <br><br>
 
@@ -14,18 +15,17 @@ This project is a straightforward web-based currency converter focused on three 
 - Live Exchange Rates: Real-time exchange rates for the selected currencies are fetched from a reliable API, ensuring accurate conversions based on the latest market data.
 
 - Responsive Design: The application is built to be responsive, offering a consistent user experience across various devices and screen sizes.
-
-
 <br><br>
 
 <h2>Technologies Used:</h2>
-HTML: Provides the basic structure and layout of the web page.
 
-CSS: Styles the page to enhance visual appeal and user experience.
+- HTML: Provides the basic structure and layout of the web page.
 
-JavaScript: Implements the dynamic functionality of the currency converter, handling user input, and making API calls.
+- CSS: Styles the page to enhance visual appeal and user experience.
 
-Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
+- JavaScript: Implements the dynamic functionality of the currency converter, handling user input, and making API calls.
+
+- Exchange Rate API: Utilizes a reliable exchange rate API to fetch live currency conversion rates for INR, USD, and EUR.
 <br><br>
 
 <h2>Screenshots:</h2>
