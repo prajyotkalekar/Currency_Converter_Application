@@ -1,4 +1,4 @@
-<h2 align = "center">Currency-Converter</h2> <img src="images/fevicon.png" alt="" height="35" width="55"/>
+<h2 align = "center">Currency-Converter <img src="images/fevicon.png" alt="" height="35" width="55"/></h2>
 <br>
 
 <h2>Overview:</h2>
