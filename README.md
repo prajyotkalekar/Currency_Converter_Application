@@ -35,7 +35,7 @@ This project is a straightforward web-based currency converter focused on three 
 
 <h2>Screenshots:</h2>
 
-![Currency_app](https://github.com/user-attachments/assets/386e72bb-5656-40c4-969f-4bd7bd0c91d0)
+![Currency_app](https://github.com/user-attachments/assets/7d882f72-b23b-49d6-8be0-386800cd4a09)
 
 <br>
 
